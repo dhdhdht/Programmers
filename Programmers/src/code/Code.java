@@ -3,7 +3,7 @@ package code;
 public class Code {
 	
 	public static void main(String[] args) {
-		//Programmers 12926
+		//Programmers 12926 
 
 		String s = "a B z";	//"AB", "z"
 		int n = 4;			//1

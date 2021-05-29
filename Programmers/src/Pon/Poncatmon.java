@@ -4,6 +4,7 @@ import java.util.*;
 
 public class Poncatmon {
 	public static void main(String[] args) {
+		//Programmers 1845
 		int[] nums = {3, 3, 3, 2, 2, 4};
 		// return 2
 		
@@ -12,7 +13,7 @@ public class Poncatmon {
 	
 	    public static int solution(int[] nums) {
 	        int answer = 0;
-	        int choice = nums.length/2;	//¼±ÅÃÇÒ È½¼ö
+	        int choice = nums.length/2;	//Â¼Â±Ã…ÃƒÃ‡Ã’ ÃˆÂ½Â¼Ã¶
 	        
 	        Set<Integer> num = new HashSet<Integer>();
 	        
